@@ -1,24 +1,30 @@
-# HOOTID
+# FUNXPAY
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-HOOTID-blue?logo=google-chrome)](https://hootid.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-HOOTID-blue?logo=twitter)](https://x.com/HOOTIDTREE).
+[![Website](https://img.shields.io/badge/Website-FUNXPAY-blue?logo=google-chrome)](https://funxpay.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-FUNXPAY-blue?logo=twitter)](https://x.com/FUNXPAYLAB).
 
-In the world of HOOTONE, every participant is not just a user — but an owl node, a symbol of wisdom, observation, and connection.
-Together, these nodes form a living structure known as the Ascension Tree, a decentralized network that grows through shared insight and interaction.
+```
+ _______ _______ _______ ___ ___ ______ _______ ___ ___ 
+|    ___|   |   |    |  |   |   |   __ \   _   |   |   |
+|    ___|   |   |       |-     -|    __/       |\     / 
+|___|   |_______|__|____|___|___|___|  |___|___| |___|  
+                                                        
 
-At its core lies the ASC Protocol (Ascension Synchronization Code) — a mechanism that measures contribution, aligns relations between nodes, and continuously adjusts the height of each node’s perception.
-The more meaningful your contribution, the higher your node ascends within the tree, expanding its field of vision and influence.
+```
 
-HOOTONE reimagines the blockchain as more than a ledger of data — it becomes a soil where cognition takes root.
-Instead of storing static information, the system transforms every transaction, idea, or collaborative act into nutrients for collective understanding.
-Through the constant exchange between owl nodes, the network grows, learns, and evolves.
+FUNXPAY — The First x402-Enabled MCP Server on Solana
 
-In this way, HOOTONE represents a new layer of Web3 — a cognitive infrastructure where wisdom itself becomes composable.
-Each interaction doesn’t just add data to the chain; it helps the tree ascend one branch higher toward collective awareness.
+FUNXPAY is a next-generation infrastructure that connects autonomous AI agents directly to Solana through the x402 protocol. It transforms how intelligent systems interact with the blockchain — shifting from free, permissionless chaos to structured, auditable, and pay-per-access execution.
 
-HOOTONE is where wisdom takes flight, and the chain begins to think.
+At its core, FUNXPAY combines three powerful components: the x402 Payment Gateway, which handles on-chain authentication and pay-per-call access using Solana or USDC; the MCP Server Layer, which exposes verified blockchain tools for simulation and execution; and the Policy & Security Core, which governs every agent’s permissions, limits, and signing logic through KMS-secured protocols.
+
+Agents communicate through a simple x402 endpoint — when they request an action, the server responds with a payment requirement, validates the transaction, and grants short-lived access tokens. Once authorized, the agent can simulate or execute operations on Solana in real time, all under transparent monitoring and precise rate control. Every action — from payment to transaction result — is recorded, hashed, and stored for verifiable auditing.
+
+FUNXPAY turns blockchain access into an intelligent, economic network of autonomous agents. It brings together the speed of Solana, the flexibility of MCP, and the accountability of x402, creating a new foundation for AI-driven automation, decentralized finance operations, and on-chain creativity.
+
+Pay, verify, and act — FUNXPAY makes Solana truly machine-accessible.
