@@ -10,6 +10,10 @@
 
 ```
 CA: DG9LREKBdVLuXmU2FX951G9MYKWRQb5Wy2DoYssKpump
+
+Sorry, I was delayed while checking some code earlier.
+I will proceed to pay the dex now.
+
 ```
 
 # SOcode — The Modular AI-Powered Development Framework for Solana
