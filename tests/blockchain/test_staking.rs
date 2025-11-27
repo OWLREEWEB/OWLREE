@@ -50,7 +50,18 @@ pub mod socode {
     }
 }
 
-
+"project": "socode",
+  "network": "devnet",
+  "modules": [
+    "token",
+    "staking",
+    "roles",
+    "treasury"
+  ],
+  "deployment": {
+    "autofee": true,
+    "verify": true
+  }
 
 
     let (banks_client, payer, recent_blockhash) = program_test.start().await;
