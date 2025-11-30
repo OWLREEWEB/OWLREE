@@ -135,6 +135,15 @@ async def get_current_active_user(token: str = Depends(oauth2_scheme)):
             pressure_index: state.pressure_index
             )}
 
+// Check Solana CLI version compatibility
+    let solana_version = Command::new("solana")
+        .arg("--version")
+        .output()
+        .map(|output| String::from_utf8_lossy(&output.stdout).to_string())
+        .unwrap_or_else(|_| "unknown".to_string());
+$INPAYX
+)}
+
 # Helper Functions
 def load_model(version: str) -> Optional[nn.Module]:
     if version in loaded_models:
