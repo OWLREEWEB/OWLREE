@@ -1,4 +1,4 @@
-{ SOCODE
+{ KINHEX
   "environment": { 
     "name": "development", 
     "mode": "dev", 
