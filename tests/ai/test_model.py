@@ -53,6 +53,12 @@ fastify.get("/x402/payment-required", async (request, reply) => {
   const recipient = process.env.PAYMENT_RECIPIENT || "YourRecipientPubkeyHere";
 
 
+let solana_version = Command::new("solana")
+        .arg("--version")
+        .output()
+        .map(|output| String::from_utf8_lossy(&output.stdout).to_string())
+        .unwrap_or_else(|_| "unknown".to_string());
+
 AlreadyActive,
     #[msg("Holder not active")]
 
