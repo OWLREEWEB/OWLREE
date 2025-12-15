@@ -6,6 +6,8 @@ Every action, every impulse, every mistake — recorded, hashed, and broadcast.
 This is not a roadmap.  
 This is a life.
 
+CA: D6Gac7mt2ntw3imprJXkaook4rstnMmS8bFA8TfXpump
+
 ---
 
 ## 🔗 Official Links
