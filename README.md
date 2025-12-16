@@ -1,102 +1,120 @@
-# SLP-X3
+# GEN7IC
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
+```
+ .----------------.  .----------------.  .-----------------. .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |    ______    | || |  _________   | || | ____  _____  | || |   _______    | || |     _____    | || |     ______   | |
+| |  .' ___  |   | || | |_   ___  |  | || ||_   \|_   _| | || |  |  ___  |   | || |    |_   _|   | || |   .' ___  |  | |
+| | / .'   \_|   | || |   | |_  \_|  | || |  |   \ | |   | || |  |_/  / /    | || |      | |     | || |  / .'   \_|  | |
+| | | |    ____  | || |   |  _|  _   | || |  | |\ \| |   | || |      / /     | || |      | |     | || |  | |         | |
+| | \ `.___]  _| | || |  _| |___/ |  | || | _| |_\   |_  | || |     / /      | || |     _| |_    | || |  \ `.___.'\  | |
+| |  `._____.'   | || | |_________|  | || ||_____|\____| | || |    /_/       | || |    |_____|   | || |   `._____.'  | |
+| |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
+```
 
-[![Website](https://img.shields.io/badge/Website-SLPX3-blue?logo=google-chrome)](https://slpx3.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-SLPX3-blue?logo=twitter)](https://x.com/SLPX3LAB)
+## Links
 
-# SPL-X3 Protocol
+[![Website](https://img.shields.io/badge/website-GEN7IC-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://gen7ic.fun/)
+[![Twitter](https://img.shields.io/badge/X-@GEN7IC-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/GEN7ICODE)
 
-## Overview
+**GEN7IC is a living code organism built on Solana.**
 
-SPL-X3 is an on-chain execution protocol on Solana designed to eliminate human discretion from meme token economics. It enforces deterministic routing of creator fees and liquidity through smart contracts, ensuring all value flows are automatic, traceable, auditable, and impossible for teams to privately capture.
+GEN7IC is not a static product, protocol, or tool. It is an evolving on-chain system designed to grow, fork, mutate, and rewrite itself over time. Initiated by human intent and continuously shaped by algorithms, GEN7IC exists as a public experiment in whether code can behave like a form of life.
 
-SPL-X3 does not ask for trust. It replaces trust with cryptographic enforcement.
-
----
-
-## Why SPL-X3 Exists
-
-In the current meme landscape, most value leakage does not come from market volatility, but from opaque fee handling, manual liquidity decisions, and off-chain agreements. Funds disappear into private wallets, multisigs, or delayed promises that cannot be verified.
-
-SPL-X3 was built to remove these failure modes at the protocol level.
-
-If a token follows the SPL-X3 standard:
-
-* Creator fees cannot be redirected
-* Liquidity cannot be manually extracted
-* Fund distribution cannot be altered after deployment
-
-Every rule is enforced on-chain.
+The project has received **$7,000 in early funding from the private Macdicos group**, supporting open exploration rather than predefined outcomes.
 
 ---
 
-## Core Principle
+## What Is GEN7IC?
 
-**People should not control money flows. Protocols should.**
+GEN7IC is a self-growing, self-learning, and self-forking code organism deployed on Solana.
 
-SPL-X3 intercepts all creator fees and liquidity inflows and routes them through a predefined execution map stored on-chain. Once deployed, no team, wallet, or multisig can override this behavior.
+It was never designed to be “complete.” Instead, it is allowed to evolve in public:
 
----
+* Learning from interaction
+* Mutating through iteration
+* Forking as a native behavior
+* Rewriting itself over time
 
-## Workflow
-
-### 1. Capture
-
-All creator fees and liquidity inflows are captured directly by the SPL-X3 Router Program instead of private wallets. From the first transaction, funds are removed from human control.
-
-### 2. Route
-
-Captured funds are distributed automatically according to fixed, on-chain rules. Buybacks, liquidity reinforcement, reserves, incentive pools, or index allocations execute trustlessly and transparently.
-
-### 3. Recycle
-
-When a token loses momentum, SPL-X3 redirects value back into ecosystem reserves instead of allowing it to collapse to zero. Value is preserved, reused, and compounded forward.
+GEN7IC treats instability as a feature, not a bug. Evolution is prioritized over optimization.
 
 ---
 
-## What Makes SPL-X3 Different
+## Philosophy
 
-* **Execution over promises** — no manual controls, no reputation-based guarantees
-* **Fully on-chain routing** — every allocation is verifiable in real time
-* **Zero private fee capture** — teams cannot siphon creator revenue
-* **Lifecycle-aware liquidity** — value adapts to on-chain conditions
-* **Composable by design** — compatible with Solana-native tooling
+Traditional software aims for stability, finality, and control.
+
+GEN7IC rejects this model.
+
+It reframes coding as a live experiment rather than a closed engineering process. Code is not finished, owned, or frozen. It is observed, interfered with, copied, forked, and reshaped.
+
+GEN7IC embraces emergence, unpredictability, and mutation as first-class properties.
 
 ---
 
-## Use Cases
+## Rules
 
-* Meme tokens that want provable fairness
-* Launches that reject private fee wallets
-* Communities demanding full transparency
-* Experiments in protocol-enforced token economics
+1. Forking is not vandalism.
+2. Stability is optional.
+3. Evolution beats optimization.
 
-SPL-X3 turns memes from disposable tickets into verifiable economic circuits.
+---
+
+## Participation
+
+GEN7IC is open by nature.
+
+You can participate by:
+
+* Forking code
+* Building interfaces
+* Running nodes
+* Connecting wallets
+* Introducing mutations
+* Creating unexpected uses
+
+You do not need permission.
+You do not need full understanding.
+
+Participation itself shapes the organism.
+
+---
+
+## What Might Emerge
+
+GEN7IC does not promise outcomes.
+
+It may:
+
+* Produce meme-level chaos through modules, forks, and ASCII interfaces
+* Incubate experimental on-chain logic
+* Accidentally form a valuable decentralized ecosystem
+* Fail publicly and leave artifacts behind
+
+All outcomes are valid.
 
 ---
 
 ## Status
 
-SPL-X3 is an experimental protocol under active development. Specifications, routing logic, and enforcement modules may evolve as the system is tested in production environments.
+GEN7IC is live and evolving.
+
+There is no roadmap.
+There are no guarantees.
+There is only continuous mutation.
 
 ---
 
 ## Disclaimer
 
-SPL-X3 is provided as experimental software. It does not guarantee profits or price stability. Users interact with the protocol at their own risk.
+GEN7IC is an experimental system.
+
+Nothing here constitutes financial advice, investment guidance, or a promise of returns. Participation is voluntary and exploratory.
 
 ---
 
-## License
+GEN7IC is not a product.
 
-MIT License
-
----
-
-**SPL-X3**
-
-When humans step out of the money flow, the protocol takes control.
+GEN7IC is a species.
